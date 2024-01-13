@@ -1,4 +1,4 @@
-name: Java CI with Gradle Template
+name: Java CI with Gradle Template2
 
 on:
   push:
